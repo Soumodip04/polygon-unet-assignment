@@ -78,10 +78,10 @@ The notebook also demonstrates:
 All training runs were tracked using [Weights & Biases](https://wandb.ai):
 
 - **Image-only Model Run:**  
-  [Run Link](https://wandb.ai/soumoofficial2004-techno-institute-of-engineering-and-ma/polygon_unet_assignment_imgonly/runs/zv4td4wx)
+  [Run Link](https://wandb.ai/soumoofficial2004-techno-institute-of-engineering-and-ma/polygon_unet_assignment_imgonly/runs/bq0kn3hy)
 
 - **Color-conditioned Model Run:**  
-  [Run Link](https://wandb.ai/soumoofficial2004-techno-institute-of-engineering-and-ma/polygon_unet_assignment_conditioned/runs/dtecqdkl)
+  [Run Link](https://wandb.ai/soumoofficial2004-techno-institute-of-engineering-and-ma/polygon_unet_assignment_conditioned/runs/y0puvi45)
 
 ---
 
